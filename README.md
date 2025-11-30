@@ -69,7 +69,6 @@ Additionally, if a subclass overrides `getAvailableRoles()`, the program dynamic
 <tr>
     <th> &nbsp; </th>
     <th> Name </th>
-    <th> Role </th>
 </tr>
 <tr>
     <td> <img src="static\Shanea.jpg" width="100" height="100"> </td>
@@ -78,7 +77,6 @@ Additionally, if a subclass overrides `getAvailableRoles()`, the program dynamic
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Shanea's Github">
       </a>
     </td>
-    <td>sample</td>
 </tr>
 <tr>
     <td> <img src="static\Ace.jpg" width="100" height="100"> </td>
@@ -87,7 +85,6 @@ Additionally, if a subclass overrides `getAvailableRoles()`, the program dynamic
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Ace's Github">
       </a>
     </td>
-    <td>sample</td>
 </tr>
 <tr>
     <td> <img src="static\Jaren.jpg" width="100" height="100"> </td>
@@ -96,7 +93,6 @@ Additionally, if a subclass overrides `getAvailableRoles()`, the program dynamic
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Jaren's Github">
       </a>
     </td>
-    <td>sample</td>
 </tr>
 <tr>
     <td> <img src="static\Dane.jpg" width="100" height="100"> </td>
@@ -105,7 +101,6 @@ Additionally, if a subclass overrides `getAvailableRoles()`, the program dynamic
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Dane's Github">
       </a>
     </td>
-    <td>sample</td>
 </tr>
 </table>
 
