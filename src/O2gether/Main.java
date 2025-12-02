@@ -54,7 +54,9 @@ public class Main {
                     break;
                 }
             }
-            System.out.println("\nGoodbye!");
+            System.out.println("\nThank you for using 02gether!");
+            System.out.println("  Collaboration starts here.");
+            System.out.println("         Goodbye!");
         }
     }
 }
